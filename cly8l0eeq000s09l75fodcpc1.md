@@ -19,13 +19,13 @@ mkdir newfolder
 ### • Make a hidden directory (also . before a file to make it hidden)
 
 ```bash
-mkdir .NewFolder 
+mkdir .NewFolder
 ```
 
 ### • Make multiple directories at the same time
 
 ```bash
-mkdir A B C D 
+mkdir A B C D
 ```
 
 ### • Make a new folder in a specific location
@@ -51,7 +51,7 @@ pwd
 ### • change directory to the provided path
 
 ```bash
-cd path_to_directory 
+cd path_to_directory
 ```
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720176707680/cb991a46-d319-46ec-988d-f7d4b1545825.png align="center")
@@ -59,7 +59,7 @@ cd path_to_directory
 ### • change directory to the home directory
 
 ```bash
-cd 
+cd
 ```
 
 ```bash
@@ -89,3 +89,5 @@ cd ..
 ```bash
  mkdir  directoryName
 ```
+
+<mark>© 2024 Anand Raval. All rights reserved.</mark>
