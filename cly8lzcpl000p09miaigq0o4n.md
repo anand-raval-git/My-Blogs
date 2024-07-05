@@ -5,7 +5,7 @@ seoDescription: "Learn about the history of Linux, its file system, architecture
 datePublished: Fri Jul 05 2024 11:24:56 GMT+0000 (Coordinated Universal Time)
 cuid: cly8lzcpl000p09miaigq0o4n
 slug: day-2-history-of-linux-and-basic-linux-commands
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720178999681/a8d5e181-5d7b-4b32-bfb6-32dfdd902998.avif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720179089005/f85048db-6186-4088-a097-04d32f54b5c9.jpeg
 tags: linux, devops, linux-commands, 90daysofdevops, trainwithshubham
 
 ---
