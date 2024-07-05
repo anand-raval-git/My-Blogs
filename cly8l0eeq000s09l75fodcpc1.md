@@ -1,0 +1,90 @@
+---
+title: "Basic Linux Directory Commands 🐧💻"
+seoTitle: "Essential Linux Directory Commands"
+seoDescription: "Learn essential Linux directory commands for creating, navigating, and managing directories efficiently in various scenarios"
+datePublished: Fri Jul 05 2024 10:57:45 GMT+0000 (Coordinated Universal Time)
+cuid: cly8l0eeq000s09l75fodcpc1
+slug: basic-linux-directory-commands
+tags: linux, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
+
+---
+
+### • Make a new folder 'newFolder'
+
+```bash
+mkdir newfolder
+```
+
+### • Make a hidden directory (also . before a file to make it hidden)
+
+```bash
+mkdir .NewFolder 
+```
+
+### • Make multiple directories at the same time
+
+```bash
+mkdir A B C D 
+```
+
+### • Make a new folder in a specific location
+
+```bash
+mkdir /home/ubuntu/Mydirectory
+```
+
+### • Make a nested directory
+
+```bash
+mkdir -p A/B/C/D
+```
+
+### • Print work directory. Gives the present working directory.
+
+```bash
+pwd
+```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720176525377/29cd833e-378a-4289-9772-adf1374c2242.png align="center")
+
+### • change directory to the provided path
+
+```bash
+cd path_to_directory 
+```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720176707680/cb991a46-d319-46ec-988d-f7d4b1545825.png align="center")
+
+### • change directory to the home directory
+
+```bash
+cd 
+```
+
+```bash
+cd ~
+```
+
+### • Go to the last working directory.
+
+```bash
+cd -
+```
+
+### • change directory to one step back.
+
+```bash
+cd ..
+```
+
+### • change directory to one step back.
+
+```bash
+ cd ../..
+```
+
+### • to make a directory in a specific location
+
+```bash
+ mkdir  directoryName
+```
