@@ -5,6 +5,7 @@ seoDescription: "Learn essential Linux commands to list files and directories, i
 datePublished: Fri Jul 05 2024 11:16:22 GMT+0000 (Coordinated Universal Time)
 cuid: cly8loc3i000609mhg9ckeg6e
 slug: basic-linux-list-commands
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720255932644/410f79fb-eb2b-481a-b51f-17be65c1ebb4.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720178104402/bc2e7498-1ab7-445f-a29c-0ff02dd349c5.webp
 tags: ubuntu, linux, devops, 90daysofdevops, trainwithshubham
 
