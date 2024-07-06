@@ -5,7 +5,7 @@ seoDescription: "Introduction to DevOps: Automation, quality, continuous process
 datePublished: Fri Jul 05 2024 07:26:42 GMT+0000 (Coordinated Universal Time)
 cuid: cly8dgzzi000209k48z9l65hh
 slug: day-1-introduction-to-devops
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720167884795/fe1dd298-288b-45d8-b008-16a0d80794aa.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720254611863/45a10ce1-258f-4584-a84f-c59ecf262c24.png
 tags: devops, devops-articles, 90daysofdevops, trainwithshubham, 90daysofdevops-chanllenge
 
 ---
