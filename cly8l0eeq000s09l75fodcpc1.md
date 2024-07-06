@@ -5,6 +5,7 @@ seoDescription: "Learn essential Linux directory commands for creating, navigati
 datePublished: Fri Jul 05 2024 10:57:45 GMT+0000 (Coordinated Universal Time)
 cuid: cly8l0eeq000s09l75fodcpc1
 slug: basic-linux-directory-commands
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720255907176/e3129d3d-9924-4b51-93de-45e008d135c3.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720255086529/6afd8a74-128b-4df8-8217-191481acad0b.png
 tags: linux, devops, linux-for-beginners, 90daysofdevops, trainwithshubham
 
