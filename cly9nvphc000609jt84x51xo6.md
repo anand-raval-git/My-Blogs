@@ -5,6 +5,7 @@ seoDescription: "Learn the essentials of computer networking in DevOps, from net
 datePublished: Sat Jul 06 2024 05:05:51 GMT+0000 (Coordinated Universal Time)
 cuid: cly9nvphc000609jt84x51xo6
 slug: mastering-computer-networking-in-devops-introduction-of-networking
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720255861911/bdd29f8e-8a6f-4770-ae84-86d87bbc930f.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720242324850/9f32b8f9-27f0-4708-af38-cb71c6f546be.png
 tags: computer-science, devops, networking, 90daysofdevops, trainwithshubham
 
