@@ -5,8 +5,8 @@ seoDescription: "Learn the essentials of computer networking in DevOps, from net
 datePublished: Sat Jul 06 2024 05:05:51 GMT+0000 (Coordinated Universal Time)
 cuid: cly9nvphc000609jt84x51xo6
 slug: mastering-computer-networking-in-devops-introduction-of-networking
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720255861911/bdd29f8e-8a6f-4770-ae84-86d87bbc930f.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720242324850/9f32b8f9-27f0-4708-af38-cb71c6f546be.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720374200192/fcc7e84e-0f56-42b8-8bb2-b837c5dd1f1b.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720374246628/7b6ff119-3b21-44ce-8421-19853da3d298.png
 tags: computer-science, devops, networking, 90daysofdevops, trainwithshubham
 
 ---
@@ -73,6 +73,21 @@ Submarine optical cables are long cables laid on the ocean floor that connect di
         
 
 ## What is ISP?
+
+An Internet Service Provider (ISP) is a company that provides individuals and organizations with access to the internet. ISPs offer various services, including internet connectivity, domain registration, web hosting, and email services. They connect customers to the internet through different technologies such as DSL, cable, fiber-optic, and wireless connections.
+
+Examples of Indian ISPs include:
+
+1. **Bharti Airtel**
+    
+2. **Reliance Jio**
+    
+3. **Vodafone Idea**
+    
+4. **BSNL (Bharat Sanchar Nigam Limited)**
+    
+5. **ACT Fibernet**
+    
 
 ## How Do the Different Tiers of Internet Service Providers (ISPs) Work?
 
