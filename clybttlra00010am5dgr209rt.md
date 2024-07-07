@@ -73,3 +73,7 @@ Anand wants to stream a live video to Riya. Here’s how UDP helps:
     
 
 This process is ideal for applications like live video streaming or online gaming, where speed is more important than perfect accuracy.
+
+Thank you for reading!
+
+<mark>© 2024 Anand Raval. All rights reserved.</mark>
