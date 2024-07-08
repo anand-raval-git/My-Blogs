@@ -5,8 +5,8 @@ seoDescription: "Comprehensive guide to managing users, groups, and file permiss
 datePublished: Mon Jul 08 2024 15:09:59 GMT+0000 (Coordinated Universal Time)
 cuid: clyd4cc36000609jsgow8g3tx
 slug: day-4-part-1-managing-users-groups-and-file-permissions-in-ubuntu-a-comprehensive-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720451351380/7652c2fd-5b45-4116-a554-9f110308f2ed.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720451364432/605aa81b-e6be-4f7f-9dd0-2740f005c074.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720452024932/dad49616-deb7-429f-ab97-e4b5edc6792f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720452042454/30b43c0d-6aa0-43e7-909b-555fa2895189.png
 tags: ubuntu, cli, devops, 90daysofdevops, trainwithshubham
 
 ---
