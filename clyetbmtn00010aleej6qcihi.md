@@ -81,6 +81,84 @@ You can then verify the files on the server:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720551674623/6128eee2-f283-4500-839a-bc7aaa95b5f0.png align="left")
 
+### • What is systemctl ? explain with example
+
+is a command-line utility in Ubuntu (and other Linux distributions using systemd) that allows you to control the systemd system and service manager. It is used to manage and inspect system services, check the status of services, enable or disable services to start on boot, and more.
+
+### **Example: Managing Docker with** `systemctl`
+
+> use given below command for installation of docker
+
+```bash
+sudo apt-get update
+sudo apt install docker.io
+```
+
+1. **Check the Status of the Docker Service:**
+    
+    ```bash
+    sudo systemctl status docker
+    ```
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720615519617/5250094b-3113-4a89-a83a-a7645195180f.png align="center")
+    
+    This command checks the status of the Docker service, showing whether it is active, inactive, or failed.
+    
+2. **Start the Docker Service:**
+    
+    ```bash
+    sudo systemctl start docker
+    ```
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720615621531/8c663056-a68a-4ba9-8ebe-aefa77602b0a.png align="center")
+    
+    This command starts the Docker service if it is not already running.
+    
+3. **Stop the Docker Service:**
+    
+    ```bash
+    sudo systemctl stop docker
+    ```
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720615593292/135a565b-f439-4bf1-9d73-8d5f1c830bc4.png align="center")
+    
+    This command stops the Docker service.
+    
+4. **Restart the Docker Service:**
+    
+    ```bash
+    sudo systemctl restart docker
+    ```
+    
+    This command restarts the Docker service, which can be useful if you have made configuration changes.
+    
+5. **Enable Docker to Start on Boot:**
+    
+    ```bash
+    sudo systemctl enable docker
+    ```
+    
+    This command configures the Docker service to start automatically when the system boots.
+    
+6. **Disable Docker from Starting on Boot:**
+    
+    ```bash
+    sudo systemctl disable docker
+    ```
+    
+    This command prevents the Docker service from starting automatically at boot.
+    
+7. **Reload Docker Service Configuration:**
+    
+    ```bash
+    sudo systemctl reload docker
+    ```
+    
+    This command reloads the Docker service configuration without stopping the service.
+    
+
+By using `systemctl`, you can effectively manage the Docker service on your Ubuntu system, ensuring it runs smoothly and starts automatically when needed.
+
 Thank you for reading!
 
 <mark>© 2024 Anand Raval. All rights reserved.</mark>
