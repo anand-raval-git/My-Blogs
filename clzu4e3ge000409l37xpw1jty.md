@@ -5,6 +5,7 @@ seoDescription: "Essential Docker commands for images, containers, and Docker Hu
 datePublished: Wed Aug 14 2024 17:23:09 GMT+0000 (Coordinated Universal Time)
 cuid: clzu4e3ge000409l37xpw1jty
 slug: day-20-docker-cheat-sheet-essential-commands-for-images-containers-and-docker-hub
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723656218555/41d95a53-f85b-41c2-9f09-ad97207f24ab.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723656168045/d0829b67-d0a5-421c-866b-df482403b24e.png
 tags: docker, devops, containers, 90daysofdevops, trainwithshubham
 
