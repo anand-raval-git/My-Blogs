@@ -97,7 +97,7 @@ If you want to try an alternative way, you can check [this](https://k8s-docs.net
     Update your package lists to make sure you are getting the latest version and dependencies.
     
     ```bash
-     sudo apt update
+    sudo apt update
     ```
     
 3. **Install necessary packages**:
@@ -105,7 +105,7 @@ If you want to try an alternative way, you can check [this](https://k8s-docs.net
     Install some basic required packages.
     
     ```bash
-     sudo apt install -y curl wget apt-transport-https
+    sudo apt install -y curl wget apt-transport-https
     ```
     
 4. **Install and start Docker**:
@@ -154,15 +154,14 @@ If you want to try an alternative way, you can check [this](https://k8s-docs.net
 9. **Now install kubectl**:
     
     ```bash
-     curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
-    
+    curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
     ```
     
 10. Make it executable and move it into your path:
     
     ```bash
-     chmod +x kubectl
-     sudo mv kubectl /usr/local/bin/
+    chmod +x kubectl
+    sudo mv kubectl /usr/local/bin/
     ```
     
 11. **Start Minikube**:
@@ -170,7 +169,7 @@ If you want to try an alternative way, you can check [this](https://k8s-docs.net
     This command will start a single-node Kubernetes cluster inside a Docker container.
     
     ```bash
-    minikube start --driver=docker --vm=true 
+    minikube start --driver=docker --vm=true
     ```
     
 
@@ -218,7 +217,7 @@ If you want to try an alternative way, you can check [this](https://k8s-docs.net
 1. **Start Minikube** (if not running):
     
     ```bash
-     minikube start
+    minikube start
     ```
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725733107477/bb5181e0-aeea-4307-bd08-103eef3dab34.png align="center")
@@ -226,17 +225,17 @@ If you want to try an alternative way, you can check [this](https://k8s-docs.net
 2. **Create a Pod YAML Manifest**:
     
     ```bash
-     # first-pod.yml
-     apiVersion: v1
-     kind: Pod
-     metadata:
-       name: nginx
-     spec:
-       containers:
-       - name: nginx
-         image: nginx:latest
-         ports:
-         - containerPort: 80
+    # first-pod.yml
+    apiVersion: v1
+    kind: Pod
+    metadata:
+      name: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:latest
+        ports:
+        - containerPort: 80
     ```
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725734243438/3b460b2e-794a-4d55-bc09-3f4d803051e5.png align="center")
@@ -244,7 +243,7 @@ If you want to try an alternative way, you can check [this](https://k8s-docs.net
 3. **Create the pod**:
     
     ```bash
-     kubectl apply -f first-pod.yml
+    kubectl apply -f first-pod.yml
     ```
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725734285667/884d8884-b517-484d-aa20-212473f80634.png align="center")
@@ -252,7 +251,7 @@ If you want to try an alternative way, you can check [this](https://k8s-docs.net
 4. **Check pod status**:
     
     ```bash
-     kubectl get pods
+    kubectl get pods
     ```
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725734352380/e056a4b6-379e-47bb-9511-67427c1b0f89.png align="center")
