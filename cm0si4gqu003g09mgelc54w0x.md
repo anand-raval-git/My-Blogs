@@ -1,5 +1,6 @@
 ---
 title: "Day 31 Task: Launching Your First Kubernetes Cluster with Nginx Running 🌐"
+seoTitle: "Launch Kubernetes Cluster with Nginx"
 seoDescription: "Learn to launch your first Kubernetes cluster with Minikube and create your first Pod in a simplified environment"
 datePublished: Sat Sep 07 2024 18:51:44 GMT+0000 (Coordinated Universal Time)
 cuid: cm0si4gqu003g09mgelc54w0x
