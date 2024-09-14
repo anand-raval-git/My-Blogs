@@ -5,6 +5,7 @@ seoDescription: "Learn to manage Kubernetes Persistent Volumes for your todo app
 datePublished: Fri Sep 13 2024 14:42:31 GMT+0000 (Coordinated Universal Time)
 cuid: cm10tv3af000909jrbx4z3gkx
 slug: day-36-task-managing-persistent-volumes-in-your-deployment
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726294765042/98130dcc-729a-4ee8-8625-d9eb8242d4f8.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1726238531622/ee030e3c-217e-4944-9f9d-8daec4d0a359.png
 tags: kubernetes, devops, minikube, 90daysofdevops, trainwithshubham
 
