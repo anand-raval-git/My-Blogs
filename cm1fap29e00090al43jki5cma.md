@@ -5,6 +5,7 @@ seoDescription: "Learn to automate AWS EC2 with launch templates, instance types
 datePublished: Mon Sep 23 2024 17:42:30 GMT+0000 (Coordinated Universal Time)
 cuid: cm1fap29e00090al43jki5cma
 slug: day-40-aws-ec2-automation
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727113391946/11d0515b-92fc-4d61-96ff-3aaf8584412f.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1727113319711/3b3815a7-136c-4f94-a27e-169a7e973f5e.png
 tags: aws, devops, instance, 90daysofdevops, trainwithshubham
 
