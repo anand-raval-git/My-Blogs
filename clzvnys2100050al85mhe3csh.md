@@ -5,8 +5,7 @@ seoDescription: "Explore AWS cloud models, regions, services, IaaS, PaaS, SaaS u
 datePublished: Thu Aug 15 2024 19:18:53 GMT+0000 (Coordinated Universal Time)
 cuid: clzvnys2100050al85mhe3csh
 slug: day-01-exploring-aws-cloud-computing-models-regions-services-and-evolution
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723748646791/a53b1943-5df1-4a54-83b7-6e525bbf02a3.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723749513351/2fc8c876-03f7-4fdc-b347-4ef7460c7c79.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728409405100/5155afda-7414-4675-b58c-ec510950925d.png
 tags: cloud, aws, cloud-computing, aws-ec2, aws-services
 
 ---
