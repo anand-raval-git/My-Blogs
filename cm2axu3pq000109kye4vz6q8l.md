@@ -1,5 +1,5 @@
 ---
-title: "DAY 04 :- 🔒 Navigating AWS Security & Compliance: A Shared Responsibility Model 🛡️"
+title: "DAY 04 :🔒 Navigating AWS Security & Compliance: A Shared Responsibility Model 🛡️"
 seoTitle: "AWS Shared Responsibility Model"
 seoDescription: "Understand AWS Shared Responsibility Model, security, and compliance to manage data protection and regulations in cloud environments"
 datePublished: Tue Oct 15 2024 21:11:08 GMT+0000 (Coordinated Universal Time)
