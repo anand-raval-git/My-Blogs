@@ -6,6 +6,7 @@ datePublished: Mon Mar 17 2025 18:00:23 GMT+0000 (Coordinated Universal Time)
 cuid: cm8dde4ph000209l2gghc7nvr
 slug: day-04-azure-basics-purchasing-and-licensing-options-account-subscription-support-and-billing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742234356051/714b3551-db1a-441f-a490-964df3102efb.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1744280215702/32b577cf-22f2-4f5d-85d5-10d54775b2f9.png
 tags: cloud, azure, cloud-computing, devops, azure-devops
 
 ---
