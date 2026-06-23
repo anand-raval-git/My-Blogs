@@ -2,7 +2,7 @@
 title: "Day 30 Task:🚀 Understanding Kubernetes Architecture 🛠️"
 seoTitle: "Kubernetes Architecture Overview"
 seoDescription: "Learn about Kubernetes, its benefits, key components, and architecture for managing containerized applications in this comprehensive guide"
-datePublished: Thu Aug 29 2024 04:15:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-29T04:15:43.063Z
 cuid: cm0erv847000c09l00hxgcuu9
 slug: day-30-task-understanding-kubernetes-architecture
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724904880603/36582df3-5fbc-400e-a47e-5776421bc603.png
