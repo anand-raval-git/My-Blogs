@@ -2,7 +2,7 @@
 title: "Day 4 [Part :- 1] :- Managing Users, Groups, and File Permissions in Ubuntu: A Comprehensive Guide"
 seoTitle: "Ubuntu User, Group, Permission Guide"
 seoDescription: "Comprehensive guide to managing users, groups, and file permissions on Ubuntu. Includes commands for adding users, groups, and changing permissions"
-datePublished: Mon Jul 08 2024 15:09:59 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-08T15:09:59.730Z
 cuid: clyd4cc36000609jsgow8g3tx
 slug: day-4-part-1-managing-users-groups-and-file-permissions-in-ubuntu-a-comprehensive-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720553844964/be005af3-1e5f-40cb-a5ad-e394cd7ef4ed.png
