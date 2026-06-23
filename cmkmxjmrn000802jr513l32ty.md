@@ -1,6 +1,6 @@
 ---
 title: "AWS Task Day 20 :- Attach IAM Policy to IAM User in aws"
-datePublished: Tue Jan 20 2026 18:30:56 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-20T18:30:56.003Z
 cuid: cmkmxjmrn000802jr513l32ty
 slug: aws-task-day-20-attach-iam-policy-to-iam-user-in-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767511930136/82152a35-ebe5-4447-803e-ca625704019c.png
