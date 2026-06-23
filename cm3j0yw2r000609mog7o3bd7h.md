@@ -2,7 +2,7 @@
 title: "DAY 18 : 🛠️ AWS Migration Made Easy: Strategies for Success"
 seoTitle: "AWS Migration Strategies Simplified"
 seoDescription: "Discover AWS migration strategies: Rehosting, Replatforming, Refactoring, Repurchasing, Retaining, and Retiring to optimize your cloud transition"
-datePublished: Fri Nov 15 2024 17:40:42 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-15T17:40:42.339Z
 cuid: cm3j0yw2r000609mog7o3bd7h
 slug: day-18-aws-migration-made-easy-strategies-for-success
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731692400144/053a8dc9-35e4-45bd-9069-36580cc908dd.png
