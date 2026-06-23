@@ -2,7 +2,7 @@
 title: "Day 03 : 🌩️ Exploring AWS Core Services and Cloud Benefits"
 seoTitle: "AWS Core Services and Cloud Benefits Exploration"
 seoDescription: "Learn AWS core services, cloud benefits, pricing models, and design principles for scalable, resilient cloud-native applications"
-datePublished: Mon Oct 14 2024 07:12:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-14T07:12:13.012Z
 cuid: cm28ofe1g000e09l6cqx31g1y
 slug: day-03-exploring-aws-core-services-and-cloud-benefits
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728889865069/1f3fd806-b0c8-4db7-a692-26f2dc240a8b.png
