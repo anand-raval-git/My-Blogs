@@ -2,7 +2,7 @@
 title: "Day 32 Task: Launching your Kubernetes Cluster with Deployment"
 seoTitle: "Deploy Kubernetes Cluster: Day 32 Guide"
 seoDescription: "Learn to launch your Kubernetes cluster with Deployment and implement auto-healing and auto-scaling for a sample todo-app"
-datePublished: Sun Sep 08 2024 17:31:58 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-08T17:31:58.730Z
 cuid: cm0tupqq2001709kyf63r97on
 slug: day-32-task-launching-your-kubernetes-cluster-with-deployment
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725801135912/96ca53a9-6a94-4ea7-8890-b6b7c79f8999.png
