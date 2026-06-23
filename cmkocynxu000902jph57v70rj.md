@@ -2,7 +2,7 @@
 title: "AWS Task Day 21 :- Create IAM Role for EC2 with Policy Attachment in aws"
 seoTitle: "Create IAM Role for EC2 with Policy"
 seoDescription: "Learn how to create and configure an IAM role for EC2 with policy attachment in AWS"
-datePublished: Wed Jan 21 2026 18:30:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-21T18:30:17.778Z
 cuid: cmkocynxu000902jph57v70rj
 slug: aws-task-day-21-create-iam-role-for-ec2-with-policy-attachment-in-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767589144248/8a3d98db-6d2e-45a2-9a31-84320a3dfcf2.png
