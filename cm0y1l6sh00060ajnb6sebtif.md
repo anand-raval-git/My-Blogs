@@ -2,7 +2,7 @@
 title: "Day 35: Mastering ConfigMaps and Secrets in Kubernetes🔒🔑🛡️"
 seoTitle: "Master ConfigMaps & Secrets in Kubernetes"
 seoDescription: "Learn to create and manage ConfigMaps and Secrets in Kubernetes, ensuring secure and efficient configuration management in your deployments"
-datePublished: Wed Sep 11 2024 15:55:28 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-11T15:55:28.289Z
 cuid: cm0y1l6sh00060ajnb6sebtif
 slug: day-35-mastering-configmaps-and-secrets-in-kubernetes
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726070077895/4972ae8e-b261-4a0d-aff4-4fc78fe70010.png
