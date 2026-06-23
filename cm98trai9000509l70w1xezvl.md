@@ -2,7 +2,7 @@
 title: "Day 45: Deploy Wordpress website on AWS"
 seoTitle: "Deploy WordPress on AWS in Simple Steps"
 seoDescription: "Learn essential steps to deploy a WordPress site on AWS using Amazon EC2 and RDS for MySQL"
-datePublished: Tue Apr 08 2025 18:19:22 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-08T18:19:22.737Z
 cuid: cm98trai9000509l70w1xezvl
 slug: day-45-deploy-wordpress-website-on-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744136310464/dc835966-deb1-4720-b6f6-37a17e242855.png
