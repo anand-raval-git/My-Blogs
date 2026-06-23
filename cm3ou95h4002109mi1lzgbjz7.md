@@ -2,7 +2,7 @@
 title: "DAY 21 : AWS Exam Prep: Ace the CLF-C02 with Confidence 📚"
 seoTitle: "Ace the CLF-C02 AWS Exam Confidently"
 seoDescription: "Boost your confidence with 20 practice MCQs for the AWS CLF-C02 exam, covering key AWS concepts and services for exam success"
-datePublished: Tue Nov 19 2024 19:19:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-19T19:19:20.824Z
 cuid: cm3ou95h4002109mi1lzgbjz7
 slug: day-21-aws-exam-prep-ace-the-clf-c02-with-confidence
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732043911213/ba299542-0302-4df8-8555-d5b3d978a442.png
