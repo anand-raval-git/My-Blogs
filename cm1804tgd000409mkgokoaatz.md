@@ -2,7 +2,7 @@
 title: "Empowering India: The Rise of Digital Public Goods and Infrastructure"
 seoTitle: "India's Digital and Infrastructure Growth"
 seoDescription: "The rise of digital public goods like UPI and Aadhaar is transforming India's infrastructure and global standing"
-datePublished: Wed Sep 18 2024 15:12:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-18T15:12:26.653Z
 cuid: cm1804tgd000409mkgokoaatz
 slug: empowering-india-the-rise-of-digital-public-goods-and-infrastructure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726672327234/6b8deaf9-4c1d-48ea-b82b-2cd23b89a363.png
