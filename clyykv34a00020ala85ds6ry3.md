@@ -2,7 +2,7 @@
 title: "Day 9 :- Shell Scripting Challenge: 📂 Directory Backup with Rotation 🔄"
 seoTitle: "Directory Backup & Rotation Shell Script"
 seoDescription: "Learn to create automated directory backups with rotation using shell scripting in Day 9 of the challenge"
-datePublished: Tue Jul 23 2024 15:35:38 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-23T15:35:38.123Z
 cuid: clyykv34a00020ala85ds6ry3
 slug: day-9-shell-scripting-challenge-directory-backup-with-rotation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721748238282/fd99f339-c40b-44a1-a9aa-38448ad10367.png
