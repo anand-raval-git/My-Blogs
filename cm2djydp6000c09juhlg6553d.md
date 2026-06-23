@@ -2,7 +2,7 @@
 title: "DAY 06 : Navigating AWS Security Tools and Best Practices"
 seoTitle: "AWS Security Best Practices Essentials"
 seoDescription: "Explore AWS security tools and best practices, including WAF, AWS Inspector, Shield, CloudTrail, Security Hub, and more for comprehensive protection"
-datePublished: Thu Oct 17 2024 17:05:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-17T17:05:51.834Z
 cuid: cm2djydp6000c09juhlg6553d
 slug: day-06-navigating-aws-security-tools-and-best-practices
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729184691314/728d3006-6b37-4c44-99ed-02ec5887b00a.png
