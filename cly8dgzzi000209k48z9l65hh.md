@@ -2,7 +2,7 @@
 title: "Day 1 :- Introduction to DevOps"
 seoTitle: "DevOps Basics: Day 1 Introduction"
 seoDescription: "Introduction to DevOps: Automation, quality, continuous processes, scaling, infrastructure, and lifecycle"
-datePublished: Fri Jul 05 2024 07:26:42 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-05T07:26:42.990Z
 cuid: cly8dgzzi000209k48z9l65hh
 slug: day-1-introduction-to-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720255739885/5590a039-35ea-4f4e-853a-e9cb329d02d4.png
