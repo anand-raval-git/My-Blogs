@@ -1,7 +1,7 @@
 ---
 title: "Day 26 Task: Jenkins Declarative Pipeline 🚀"
 seoDescription: "Learn Jenkins Declarative Pipeline, Jenkinsfile, pipeline structure, and creating Jenkins jobs with Declarative Pipeline syntax. 🚀"
-datePublished: Fri Aug 23 2024 13:50:40 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-23T13:50:40.234Z
 cuid: cm06rriax000009jx8rqi21dv
 slug: day-26-task-jenkins-declarative-pipeline
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724420388347/ff67d977-8e58-4ab0-9f65-77942fe0683f.png
