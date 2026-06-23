@@ -2,7 +2,7 @@
 title: "Day 12 :-🛠️ Easy Guide to Git and GitHub Basics"
 seoTitle: "Beginner's Guide to Git and GitHub"
 seoDescription: "Learn Git and GitHub basics including version control, branching, collaboration, repository creation, and more in this easy-to-follow guide"
-datePublished: Thu Jul 25 2024 12:49:05 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-25T12:49:05.523Z
 cuid: clz19sm42000109mfe1bv8npp
 slug: day-12-easy-guide-to-git-and-github-basics
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721911702942/eb70bcac-60a7-49c9-8b4e-0db0a6e7e232.png
