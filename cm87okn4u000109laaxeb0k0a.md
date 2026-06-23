@@ -2,7 +2,7 @@
 title: "Day 01: What is Cloud Computing? Benefits of Cloud Computing"
 seoTitle: "Cloud Computing Intro and Benefits Explained"
 seoDescription: "Cloud computing enables faster innovation, scalability, cost-effectiveness, and enhanced security for businesses"
-datePublished: Thu Mar 13 2025 18:26:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-13T18:26:45.918Z
 cuid: cm87okn4u000109laaxeb0k0a
 slug: day-01-what-is-cloud-computing-benefits-of-cloud-computing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741890303875/fc513e92-5946-414d-9f30-bc3054b5799e.png
