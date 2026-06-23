@@ -2,7 +2,7 @@
 title: "Basic Linux Directory Commands 🐧💻"
 seoTitle: "Essential Linux Directory Commands"
 seoDescription: "Learn essential Linux directory commands for creating, navigating, and managing directories efficiently in various scenarios"
-datePublished: Fri Jul 05 2024 10:57:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-05T10:57:45.458Z
 cuid: cly8l0eeq000s09l75fodcpc1
 slug: basic-linux-directory-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720255907176/e3129d3d-9924-4b51-93de-45e008d135c3.png
