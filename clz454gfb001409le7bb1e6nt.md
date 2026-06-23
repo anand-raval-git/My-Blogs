@@ -1,7 +1,7 @@
 ---
 title: "Day 13 :- Advance Git & GitHub for DevOps Engineers 🛠️"
 seoDescription: "Advance Git & GitHub: Learn branching, reverting, resetting, merging, rebasing, fetching, pulling, cherry-picking, squashing, and resolving conflicts"
-datePublished: Sat Jul 27 2024 13:01:38 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-27T13:01:38.471Z
 cuid: clz454gfb001409le7bb1e6nt
 slug: day-13-advance-git-github-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722084971183/7ebd1331-f1c7-4f46-b76b-66ad1e9813aa.png
