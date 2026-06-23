@@ -2,7 +2,7 @@
 title: "Day 31 Task: Launching Your First Kubernetes Cluster with Nginx Running 🌐"
 seoTitle: "Launch Kubernetes Cluster with Nginx"
 seoDescription: "Learn to launch your first Kubernetes cluster with Minikube and create your first Pod in a simplified environment"
-datePublished: Sat Sep 07 2024 18:51:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-07T18:51:44.455Z
 cuid: cm0si4gqu003g09mgelc54w0x
 slug: day-31-task-launching-your-first-kubernetes-cluster-with-nginx-running
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725735068757/240b0cb9-fdd7-4fab-8052-98177dcbb809.png
