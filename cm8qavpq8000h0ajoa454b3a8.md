@@ -2,7 +2,7 @@
 title: "Day 09: What is Serverless Computing In Azure and How many types of storage are there in azure"
 seoTitle: "Understanding Serverless and Azure Storage Types"
 seoDescription: "Discover Azure's serverless computing with Azure Functions and Logic Apps, and explore storage types like Azure Blob, Disk, and Queue Storage"
-datePublished: Wed Mar 26 2025 19:11:05 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-26T19:11:05.217Z
 cuid: cm8qavpq8000h0ajoa454b3a8
 slug: day-09-what-is-serverless-computing-in-azure-and-how-many-types-of-storage-are-there-in-azure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743016209267/64c0ecd3-d10e-4213-a9d8-75be6b2cb698.png
