@@ -2,7 +2,7 @@
 title: "Day 41: Setting up an Application Load Balancer with AWS EC2 🚀 ☁"
 seoTitle: "AWS EC2: Setup Application Load Balancer"
 seoDescription: "Learn how to set up an Application Load Balancer on AWS EC2, enhancing your web applications' reliability and performance"
-datePublished: Tue Sep 24 2024 14:03:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-24T14:03:17.188Z
 cuid: cm1giazpg000109l23i5gcgxr
 slug: day-41-setting-up-an-application-load-balancer-with-aws-ec2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727152573937/83ce6fea-aec2-4278-a2f9-08b048f1b1f5.png
