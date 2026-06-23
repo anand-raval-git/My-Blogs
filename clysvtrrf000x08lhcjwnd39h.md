@@ -1,7 +1,7 @@
 ---
 title: "Day 8 :- 🖥️ Exploring Bash Scripting Fundamentals"
 seoDescription: "Explore bash scripting basics: comments, echo, variables, and wildcards. Learn through hands-on tasks in this comprehensive guide"
-datePublished: Fri Jul 19 2024 15:55:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-19T15:55:55.467Z
 cuid: clysvtrrf000x08lhcjwnd39h
 slug: day-8-exploring-bash-scripting-fundamentals
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721404512655/3b68df62-e7dd-4ea0-b066-c01fa9ee48ce.png
