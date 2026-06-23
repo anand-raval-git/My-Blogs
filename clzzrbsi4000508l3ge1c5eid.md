@@ -2,7 +2,7 @@
 title: "Day-22 [part-2]:🔧 Jenkins Unleashed: Streamline Your DevOps Workflow with Automation 🚀"
 seoTitle: "Jenkins Automation for DevOps Workflows"
 seoDescription: "Understand Jenkins automation: streamline your DevOps workflow with CI/CD, improve efficiency, build a Freestyle pipeline, and explore its benefits"
-datePublished: Sun Aug 18 2024 16:04:03 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-18T16:04:03.724Z
 cuid: clzzrbsi4000508l3ge1c5eid
 slug: day-22-part-2-jenkins-unleashed-streamline-your-devops-workflow-with-automation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723996974352/183771b8-749c-43e6-8b85-16420acf0edc.png
