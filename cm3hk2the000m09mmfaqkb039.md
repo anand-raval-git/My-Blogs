@@ -2,7 +2,7 @@
 title: "DAY 17 : ☁️ Navigating the Cloud: AWS Management & Migration Essentials"
 seoTitle: "AWS Cloud Management & Migration Essentials"
 seoDescription: "Explore AWS CloudFormation, OpsWorks, and Application Migration Service for efficient IT management and resource migration in the cloud"
-datePublished: Thu Nov 14 2024 17:00:05 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-14T17:00:05.954Z
 cuid: cm3hk2the000m09mmfaqkb039
 slug: day-17-navigating-the-cloud-aws-management-migration-essentials
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731520417915/bc262af0-860a-439b-bda7-3eb000751ca9.png
