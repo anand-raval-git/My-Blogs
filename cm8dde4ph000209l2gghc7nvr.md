@@ -2,7 +2,7 @@
 title: "Day 04: Azure Basics, Purchasing & Licensing Options, Account, Subscription, Support and Billing"
 seoTitle: "Azure Essentials: Licensing, Billing & Support"
 seoDescription: "Learn Azure basics: purchasing, licensing, support, billing, subscriptions, and its impact on Fortune 500 companies"
-datePublished: Mon Mar 17 2025 18:00:23 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-17T18:00:23.381Z
 cuid: cm8dde4ph000209l2gghc7nvr
 slug: day-04-azure-basics-purchasing-and-licensing-options-account-subscription-support-and-billing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742234356051/714b3551-db1a-441f-a490-964df3102efb.png
