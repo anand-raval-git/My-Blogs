@@ -2,7 +2,7 @@
 title: "Day 01 : 🛠️ Getting Started with Open Source Contributions: A Step-by-Step Guide"
 seoTitle: "Open Source Contributions: Day 1 Guide"
 seoDescription: "Beginner guide to open source: understanding issues, creating/linking pull requests, and contributing code with step-by-step instructions"
-datePublished: Thu Sep 19 2024 17:06:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-19T17:06:43.729Z
 cuid: cm19jnn2p000309mg0oiub1b3
 slug: day-01-getting-started-with-open-source-contributions-a-step-by-step-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726765542771/6d5ba2ce-2938-4200-a6f9-0e28d11c4c7a.png
