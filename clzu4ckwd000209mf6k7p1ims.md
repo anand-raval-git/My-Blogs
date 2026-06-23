@@ -2,7 +2,7 @@
 title: "Day 19: Docker for DevOps Engineers 🚀"
 seoTitle: "Docker Essentials for DevOps Engineers"
 seoDescription: "Learn Docker Volume and Network for data storage and container communication. Master multi-container apps with advanced Docker Compose"
-datePublished: Wed Aug 14 2024 17:21:58 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-14T17:21:58.477Z
 cuid: clzu4ckwd000209mf6k7p1ims
 slug: day-19-docker-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723656106626/4938a7e7-86a2-4302-bbeb-fa41ebab8913.png
