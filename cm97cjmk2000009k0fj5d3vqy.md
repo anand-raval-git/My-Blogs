@@ -2,7 +2,7 @@
 title: "Day 12: Shared Responsibility Model in Azure And What is Defence"
 seoTitle: "Azure Shared Responsibility Model Explained"
 seoDescription: "Learn about Azure's shared responsibility model and defense strategies for securing cloud services and data against unauthorized access"
-datePublished: Mon Apr 07 2025 17:29:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-07T17:29:45.458Z
 cuid: cm97cjmk2000009k0fj5d3vqy
 slug: day-12-shared-responsibility-model-in-azure-and-what-is-defence
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744046909457/ad5a719a-fc26-4fe7-b5c2-2a8b91257df9.png
