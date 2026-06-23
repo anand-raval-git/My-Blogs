@@ -2,7 +2,7 @@
 title: "Day 23 Task: Jenkins Freestyle Project for DevOps Engineers"
 seoTitle: "Jenkins Freestyle Project DevOps Guide"
 seoDescription: "Guide for DevOps Engineers to set up Jenkins Freestyle Projects including build jobs, Docker commands, and automated deployment steps"
-datePublished: Tue Aug 20 2024 20:34:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-20T20:34:00.837Z
 cuid: cm02vunlx000309leh2gdeya2
 slug: day-23-task-jenkins-freestyle-project-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724185988565/e2c097d6-30ac-46e5-a6c0-c8f3edb0ec49.png
