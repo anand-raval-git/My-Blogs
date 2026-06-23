@@ -2,7 +2,7 @@
 title: "DAY 23 : [Part 3] Navigating AWS CLF-C02 Essential MCQs and Explanations 🔍"
 seoTitle: "AWS CLF-C02 Essential MCQs Guide"
 seoDescription: "Prepare for the AWS CLF-C02 exam with essential MCQs and explanations, covering topics like machine learning, DNS, storage, security, and more"
-datePublished: Sun Nov 24 2024 18:43:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-24T18:43:17.435Z
 cuid: cm3vy61iz001109mn6stfhh0e
 slug: day-23-part-3-navigating-aws-clf-c02-essential-mcqs-and-explanations
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732473756613/7775bfc7-ddd3-437f-8fbe-fc5a56f2e1d1.png
