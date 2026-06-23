@@ -2,7 +2,7 @@
 title: "Day 10 : Log Analyzer and Report Generator Scenario"
 seoTitle: "Log Analyzer & Report Generator Guide"
 seoDescription: "Automate log analysis and report generation using a Bash script to enhance server management efficiency and security. Ideal for system administrators"
-datePublished: Tue Jul 23 2024 18:00:32 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-23T18:00:32.576Z
 cuid: clyyq1fsw000309mgcwbw1bza
 slug: day-10-log-analyzer-and-report-generator-scenario
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721757312628/03467c35-8259-430d-9b85-ac164d61cd8b.png
