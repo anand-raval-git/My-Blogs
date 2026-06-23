@@ -2,7 +2,7 @@
 title: "Day 39 : AWS and IAM Basics☁"
 seoTitle: "AWS IAM Basics Overview"
 seoDescription: "Learn AWS and IAM basics with hands-on tasks. Understand EC2 instances, user data, and IAM roles, users, and groups"
-datePublished: Tue Sep 17 2024 17:34:29 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-17T17:34:29.777Z
 cuid: cm16prn9t002509l72xvweucs
 slug: day-39-aws-and-iam-basics
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726594433293/c1bef944-48e9-48d9-a294-5177a9bfe246.png
