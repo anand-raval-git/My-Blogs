@@ -2,7 +2,7 @@
 title: "Day 4 [part :- 2] :- 🔗 Connecting Two EC2 Instances via SSH: A Step-by-Step Guide 🚀"
 seoTitle: "Connect Two EC2 Instances via SSH: Guide"
 seoDescription: "Step-by-step guide to connect two EC2 instances via SSH and transfer files efficiently"
-datePublished: Tue Jul 09 2024 19:37:03 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-09T19:37:03.563Z
 cuid: clyetbmtn00010aleej6qcihi
 slug: day-4-part-2-connecting-two-ec2-instances-via-ssh-a-step-by-step-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720553764097/3dd7aae6-d579-407e-979b-67f3eca25c49.png
