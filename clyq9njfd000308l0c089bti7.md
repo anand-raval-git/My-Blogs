@@ -2,7 +2,7 @@
 title: "Day 7 Task :- Mastering Linux Package Management: A Beginner's Guide to Docker and Jenkins Installation 🐧📦"
 seoTitle: "Linux Package Management: Docker & Jenkins Guide"
 seoDescription: "Master Linux package management, install Docker/Jenkins on Ubuntu, and grasp essential concepts/commands"
-datePublished: Wed Jul 17 2024 19:59:40 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-17T19:59:40.825Z
 cuid: clyq9njfd000308l0c089bti7
 slug: day-7-task-mastering-linux-package-management-a-beginners-guide-to-docker-and-jenkins-installation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721246168465/03ecbf2b-e87e-43b7-88b8-80649ad8e4fd.png
