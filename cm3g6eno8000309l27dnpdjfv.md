@@ -2,7 +2,7 @@
 title: "DAY 16 : 🌐 Seamless Communication with AWS Application Integration"
 seoTitle: "AWS Application Integration: Day 16 Guide"
 seoDescription: "AWS application integration includes SNS, SQS, ELB, Auto Scaling for efficient, scalable communication"
-datePublished: Wed Nov 13 2024 17:49:37 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-13T17:49:37.496Z
 cuid: cm3g6eno8000309l27dnpdjfv
 slug: day-16-seamless-communication-with-aws-application-integration
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731520127365/884dbfe3-b3b6-4d55-8113-c81c83cb76ef.png
