@@ -2,7 +2,7 @@
 title: "Day 36 Task: Managing Persistent Volumes in Your Deployment 💥"
 seoTitle: "Managing Persistent Volumes in Deployments"
 seoDescription: "Learn to manage Kubernetes Persistent Volumes for your todo app: create PV/PVC, update deployments, verify data access"
-datePublished: Fri Sep 13 2024 14:42:31 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-13T14:42:31.911Z
 cuid: cm10tv3af000909jrbx4z3gkx
 slug: day-36-task-managing-persistent-volumes-in-your-deployment
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726294765042/98130dcc-729a-4ee8-8625-d9eb8242d4f8.png
