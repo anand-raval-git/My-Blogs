@@ -2,7 +2,7 @@
 title: "DAY 13 : 🧩 Demystifying Container Orchestration: ECS vs. EKS Explained"
 seoTitle: "ECS vs. EKS: Container Orchestration Explained"
 seoDescription: "Compare AWS's ECS and EKS for container orchestration. Learn about features, vendor lock-in, learning curve, and pricing differences"
-datePublished: Mon Oct 28 2024 19:14:29 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-28T19:14:29.322Z
 cuid: cm2tee5vu000109l7dscsdxou
 slug: day-13-demystifying-container-orchestration-ecs-vs-eks-explained
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1730142830313/80002976-6aec-484f-880c-26e64bbccdd4.png
