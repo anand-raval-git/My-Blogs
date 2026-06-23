@@ -2,7 +2,7 @@
 title: "Day 27 Task: Jenkins Declarative Pipeline with Docker 🚀"
 seoTitle: "Jenkins Pipeline with Docker Guide"
 seoDescription: "Create a Docker-integrated Jenkins Declarative Pipeline with ease. Follow these steps to elevate your CI/CD skills! 🚀"
-datePublished: Sat Aug 24 2024 19:05:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-24T19:05:08.150Z
 cuid: cm08ifrjp00010aib6c51eyjz
 slug: day-27-task-jenkins-declarative-pipeline-with-docker
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724526235426/b17a0944-87bf-4227-a1a8-961d0588eedd.png
