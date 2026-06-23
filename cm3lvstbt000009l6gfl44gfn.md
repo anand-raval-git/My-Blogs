@@ -2,7 +2,7 @@
 title: "DAY 20 : 🚀 Enhance Your Applications with AWS AI Services: Rekognition, Textract, Transcribe, and Translate"
 seoTitle: "Boost Apps with AWS AI: Rekognition & More"
 seoDescription: "Enhance your apps with AWS AI services: Rekognition, Textract, Transcribe, and Translate for advanced analysis and multilingual capabilities"
-datePublished: Sun Nov 17 2024 17:39:19 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-17T17:39:19.289Z
 cuid: cm3lvstbt000009l6gfl44gfn
 slug: day-20-enhance-your-applications-with-aws-ai-services-rekognition-textract-transcribe-and-translate
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731865104761/990fff87-b863-48f3-8463-0c328a12303d.png
