@@ -2,7 +2,7 @@
 title: "Day 06: Azure Resource Manager (Resources & Resource Groups & Management Groups) and Compliance in Azure"
 seoTitle: "Azure Resource Manager & Compliance Overview"
 seoDescription: "Azure Resource Manager groups resources for compliance and management, ensuring effective access and organization in Azure environments"
-datePublished: Sat Mar 22 2025 18:13:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-22T18:13:02.150Z
 cuid: cm8kj1nie000207leawmk2r98
 slug: day-06-azure-resource-manager-resources-and-resource-groups-and-management-groups-and-compliance-in-azure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742667111021/7fe16b2a-7d62-423e-896b-7886631f0d8c.png
