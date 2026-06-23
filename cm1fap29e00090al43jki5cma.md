@@ -2,7 +2,7 @@
 title: "Day 40 : AWS EC2 Automation ☁"
 seoTitle: "AWS EC2 Automation Day 40"
 seoDescription: "Learn to automate AWS EC2 with launch templates, instance types, AMIs, and Auto Scaling groups. Step-by-step guide included"
-datePublished: Mon Sep 23 2024 17:42:30 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-23T17:42:30.579Z
 cuid: cm1fap29e00090al43jki5cma
 slug: day-40-aws-ec2-automation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727113391946/11d0515b-92fc-4d61-96ff-3aaf8584412f.png
