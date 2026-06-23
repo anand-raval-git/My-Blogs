@@ -2,7 +2,7 @@
 title: "Day 2 :- History Of Linux And Basic Linux Commands 🐧💻"
 seoTitle: "Linux History & Basic Commands"
 seoDescription: "Learn about the history of Linux, its file system, architecture, and essential commands, perfect for beginners"
-datePublished: Fri Jul 05 2024 11:24:56 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-05T11:24:56.217Z
 cuid: cly8lzcpl000p09miaigq0o4n
 slug: day-2-history-of-linux-and-basic-linux-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720255804661/93b6069c-9909-452e-9494-ec2cc714ebcd.png
