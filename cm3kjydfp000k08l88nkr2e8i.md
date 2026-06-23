@@ -2,7 +2,7 @@
 title: "DAY 19 : 🤖 Transform Your Business with Amazon's AI/ML Tools"
 seoTitle: "Boost Business with Amazon AI/ML Tools"
 seoDescription: "Explore AWS AI/ML tools like SageMaker, Lex, Kendra, and more to transform your business and enhance innovation and efficiency effortlessly"
-datePublished: Sat Nov 16 2024 19:19:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-16T19:19:57.061Z
 cuid: cm3kjydfp000k08l88nkr2e8i
 slug: day-19-transform-your-business-with-amazons-aiml-tools
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731784744757/81536797-2de1-4174-a4ca-6664a010ffa7.png
