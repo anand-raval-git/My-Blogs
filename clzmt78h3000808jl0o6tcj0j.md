@@ -1,7 +1,7 @@
 ---
 title: "Day 18 : Mastering Docker Compose: A Comprehensive Guide for DevOps Engineers 🚀"
 seoDescription: "Master Docker Compose with this comprehensive guide for DevOps engineers, covering YAML, container management, and essential commands. 🚀😃"
-datePublished: Fri Aug 09 2024 14:35:30 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-09T14:35:30.087Z
 cuid: clzmt78h3000808jl0o6tcj0j
 slug: day-18-mastering-docker-compose-a-comprehensive-guide-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723214093180/75771f38-8341-4ac7-80bd-c829a109d93a.png
