@@ -2,7 +2,7 @@
 title: "Day 08 : Containers in Azure and Micro-services, App Service"
 seoTitle: "Azure Containers & Microservices: Day 8 Recap"
 seoDescription: "Explore Azure containers, microservices, and app services to enhance app deployment, scalability, and management with efficient platform solutions"
-datePublished: Tue Mar 25 2025 17:43:11 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-25T17:43:11.149Z
 cuid: cm8osatkd000q09l497mk6zmy
 slug: day-08-containers-in-azure-and-micro-services-app-service
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742924535471/37fc6381-f5d9-4da5-9d16-4420d95ee684.png
