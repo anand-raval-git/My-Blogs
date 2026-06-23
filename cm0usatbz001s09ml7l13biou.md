@@ -2,7 +2,7 @@
 title: "Day 33 Task: Working with Namespaces and Services in Kubernetes"
 seoTitle: "Namespaces & Services in Kubernetes"
 seoDescription: "Learn how to manage Namespaces and Services in Kubernetes to create isolated environments and expose Pods to the network"
-datePublished: Mon Sep 09 2024 09:12:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-09T09:12:09.215Z
 cuid: cm0usatbz001s09ml7l13biou
 slug: day-33-task-working-with-namespaces-and-services-in-kubernetes
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725873095409/dd44e940-f27e-4538-90ce-ddd966af4a7c.png
