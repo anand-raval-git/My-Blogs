@@ -1,7 +1,7 @@
 ---
 title: "Day 25 Task: 🚀Complete Jenkins CI/CD Project - Continued with Documentation 📄"
 seoDescription: "Comprehensive guide on Jenkins CI/CD project setup, including GitHub, Docker, and Webhook integration, with step-by-step documentation"
-datePublished: Thu Aug 22 2024 19:06:40 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-22T19:06:40.024Z
 cuid: cm05nm13s000209l3hgh3akfj
 slug: day-25-task-complete-jenkins-cicd-project-continued-with-documentation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724353551706/70a13def-ed80-4576-8280-c1755e94e5bd.png
