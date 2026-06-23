@@ -2,7 +2,7 @@
 title: "Day 4 [part :- 3] :- 🔍 Mastering Text Processing in Ubuntu: grep, find, awk, and sed 🚀"
 seoTitle: "Master Text Processing in Ubuntu"
 seoDescription: "Master text processing in Ubuntu with `grep`, `find`, `awk`, and `sed` commands for searching, processing, and manipulating text in the CLI"
-datePublished: Wed Jul 10 2024 17:50:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-10T17:50:09.491Z
 cuid: clyg4y0cz000708k1bh2oh5y3
 slug: day-4-part-3-mastering-text-processing-in-ubuntu-grep-find-awk-and-sed
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720633694485/94575e55-80f5-4041-9253-2389f8f570b3.png
