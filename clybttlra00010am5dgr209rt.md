@@ -2,7 +2,7 @@
 title: "Understanding the OSI Model: A Beginner's Guide with WhatsApp Examples 📱💬"
 seoTitle: "OSI Model Explained with WhatsApp Examples"
 seoDescription: "Beginner’s guide to the OSI model using WhatsApp examples, covering layers and protocols for better network communication understanding"
-datePublished: Sun Jul 07 2024 17:27:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-07T17:27:43.462Z
 cuid: clybttlra00010am5dgr209rt
 slug: understanding-the-osi-model-a-beginners-guide-with-whatsapp-examples
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720373195956/b6eb5cd7-ce12-486a-9bdf-4bca66d5d410.png
