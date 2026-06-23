@@ -2,7 +2,7 @@
 title: "DAY 15 : 🚀 Boost Your Data Management with AWS Services"
 seoTitle: "AWS Data Management: Boost with Day 15 Tips"
 seoDescription: "Boost data management with AWS. Understand SQL vs NoSQL databases and leverage AWS managed solutions for optimal performance"
-datePublished: Tue Nov 12 2024 17:53:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-12T17:53:39.220Z
 cuid: cm3er3zis000509l7be3fem39
 slug: day-15-boost-your-data-management-with-aws-services
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731433973792/1f6161ef-46c6-4b69-8691-d4021bfb87f9.png
