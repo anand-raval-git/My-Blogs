@@ -2,7 +2,7 @@
 title: "DAY 09 : 📊 AWS Billing Demystified: Understanding Pricing Factors and Tools"
 seoTitle: "AWS Billing: Key Pricing Factors and Tools"
 seoDescription: "Discover AWS billing essentials: pricing factors for EBS, S3, DynamoDB, and more. Learn about tools for cost management and account structures"
-datePublished: Tue Oct 22 2024 17:27:52 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-22T17:27:52.781Z
 cuid: cm2kpxya5000b09m9017lfa4c
 slug: day-09-aws-billing-demystified-understanding-pricing-factors-and-tools
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729618001960/1f2a926f-449e-4329-9d47-92a7a34d162b.png
