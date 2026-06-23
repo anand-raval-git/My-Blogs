@@ -2,7 +2,7 @@
 title: "Day 07: Azure Services are Compute, Virtual Machines Their Examples of use-cases and Scaling and High Availability"
 seoTitle: "Azure: Use Cases, Scaling & High Availability"
 seoDescription: "Explore Azure services, compute options, virtual machines, scaling strategies, high availability, practical use-cases, and deployment tips"
-datePublished: Sun Mar 23 2025 20:37:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-23T20:37:45.958Z
 cuid: cm8m3nmna000308jle6t9affs
 slug: day-07-azure-services-are-compute-virtual-machines-their-examples-of-use-cases-and-scaling-and-high-availability
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742762209341/e74582bf-eee5-4b53-9de4-bd11b30426e1.png
