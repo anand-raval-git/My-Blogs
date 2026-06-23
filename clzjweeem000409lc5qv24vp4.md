@@ -2,7 +2,7 @@
 title: "Day 17  : Docker Project for DevOps Engineers"
 seoTitle: "Docker Project for DevOps Engineers"
 seoDescription: "Learn how to create a Dockerfile for a simple web application and manage Docker containers effectively. Perfect for DevOps Engineers!"
-datePublished: Wed Aug 07 2024 13:41:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-07T13:41:44.686Z
 cuid: clzjweeem000409lc5qv24vp4
 slug: day-17-docker-project-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723038066353/18f2ba4d-d55a-4279-8e42-4e6fdac74b94.png
