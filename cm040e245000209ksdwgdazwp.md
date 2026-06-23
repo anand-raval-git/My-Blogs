@@ -2,7 +2,7 @@
 title: "Day 24: 🚀Mastering Webhooks for Jenkins and GitHub Integration 🔗"
 seoTitle: "Master Webhooks for Jenkins and GitHub"
 seoDescription: "Master Jenkins-GitHub integration with webhooks for automated CI/CD. This guide covers setup, SSH keys, and Docker Compose usage"
-datePublished: Wed Aug 21 2024 15:28:50 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-21T15:28:50.741Z
 cuid: cm040e245000209ksdwgdazwp
 slug: day-24-mastering-webhooks-for-jenkins-and-github-integration
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724254090133/44b4cfe1-1273-495e-b2f5-feacb5489a19.png
