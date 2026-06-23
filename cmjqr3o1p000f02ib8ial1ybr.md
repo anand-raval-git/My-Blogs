@@ -2,7 +2,7 @@
 title: "AWS Task Day 01 :-  Create Key Pair in aws"
 seoTitle: "AWS Key Pair Creation Guide"
 seoDescription: "Create an RSA key pair named "xfusion-kp" for AWS migration tasks"
-datePublished: Mon Dec 29 2025 06:01:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-29T06:01:55.837Z
 cuid: cmjqr3o1p000f02ib8ial1ybr
 slug: aws-task-day-01-create-key-pair-in-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766987984228/9fd34d80-e44b-42e6-aa2b-fb24dbae33e8.png
