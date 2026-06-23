@@ -2,7 +2,7 @@
 title: "Day 01 : 🌐 Exploring AWS Cloud Computing Models, Regions, Services, and Evolution 🚀"
 seoTitle: "AWS Cloud: Models, Regions, Services, Evolution"
 seoDescription: "Explore AWS cloud models, regions, services, IaaS, PaaS, SaaS use cases, history, and pricing"
-datePublished: Thu Aug 15 2024 19:18:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-15T19:18:53.065Z
 cuid: clzvnys2100050al85mhe3csh
 slug: day-01-exploring-aws-cloud-computing-models-regions-services-and-evolution
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728409405100/5155afda-7414-4675-b58c-ec510950925d.png
