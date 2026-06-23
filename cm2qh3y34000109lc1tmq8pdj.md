@@ -2,7 +2,7 @@
 title: "DAY 11 : 🚀 Navigating AWS Networking: Subnets, Gateways, and More"
 seoTitle: "AWS Networking: Subnets and Gateways Basics"
 seoDescription: "Explore AWS networking essentials, including VPCs, subnets, gateways, and firewalls, to optimize security and connectivity in the cloud"
-datePublished: Sat Oct 26 2024 18:07:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-26T18:07:12.976Z
 cuid: cm2qh3y34000109lc1tmq8pdj
 slug: day-11-navigating-aws-networking-subnets-gateways-and-more
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729965970123/84eb37e8-f178-4c5a-9147-2a257dd6c79a.png
