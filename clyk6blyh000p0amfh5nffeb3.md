@@ -2,7 +2,7 @@
 title: "Exploring the TCP/IP Model, ARP, and RARP 🌐📡"
 seoTitle: "TCP/IP Model: ARP and RARP Explained"
 seoDescription: "Overview of TCP/IP model, ARP, and RARP with relatable examples for easier understanding of network communication processes"
-datePublished: Sat Jul 13 2024 13:39:48 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-13T13:39:48.329Z
 cuid: clyk6blyh000p0amfh5nffeb3
 slug: exploring-the-tcpip-model-arp-and-rarp
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720806059812/c1688a0c-3706-481c-a45d-119a1d1d9a47.png
