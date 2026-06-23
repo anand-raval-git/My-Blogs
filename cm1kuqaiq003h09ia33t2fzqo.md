@@ -2,7 +2,7 @@
 title: "Day 44: Relational Database Service in AWS"
 seoTitle: "AWS RDS: Relational Database Service Overview"
 seoDescription: "Learn to set up and connect an AWS RDS MySQL instance and EC2 with IAM roles securely"
-datePublished: Fri Sep 27 2024 15:02:11 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-27T15:02:11.138Z
 cuid: cm1kuqaiq003h09ia33t2fzqo
 slug: day-44-relational-database-service-in-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727449267323/31fac968-b957-4119-9fc1-4239623a3eb8.png
