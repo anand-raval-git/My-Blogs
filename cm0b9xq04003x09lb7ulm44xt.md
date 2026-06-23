@@ -2,7 +2,7 @@
 title: "Day 29 : Jenkins Important Interview Questions💡"
 seoTitle: "Top Jenkins Interview Questions"
 seoDescription: "Essential Jenkins interview questions focusing on Docker and DevOps concepts. Ideal for DevOps Engineers preparing for an interview"
-datePublished: Mon Aug 26 2024 17:30:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-26T17:30:27.940Z
 cuid: cm0b9xq04003x09lb7ulm44xt
 slug: day-29-jenkins-important-interview-questions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724666233038/fe76d9d0-f768-44d5-abb3-91ef4a5c9931.png
