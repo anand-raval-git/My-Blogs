@@ -2,7 +2,7 @@
 title: "DAY 08 : Decoding AWS Billing💡 A Guide to EC2, RDS, VPC, and Lambda Costs"
 seoTitle: "AWS Billing Guide: EC2, RDS, VPC & Lambda"
 seoDescription: "Decode AWS billing with an in-depth guide on EC2, RDS, VPC, and Lambda costs, including pricing models and influencing factors"
-datePublished: Mon Oct 21 2024 17:19:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-21T17:19:00.973Z
 cuid: cm2ja6p9p000009l2bqpg5qsn
 slug: day-08-decoding-aws-billing-a-guide-to-ec2-rds-vpc-and-lambda-costs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729358085455/44515696-0770-4ecc-b21e-c0a3440232a6.png
