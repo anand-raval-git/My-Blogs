@@ -2,7 +2,7 @@
 title: "DAY 04 :🔒 Navigating AWS Security & Compliance: A Shared Responsibility Model 🛡️"
 seoTitle: "AWS Shared Responsibility Model"
 seoDescription: "Understand AWS Shared Responsibility Model, security, and compliance to manage data protection and regulations in cloud environments"
-datePublished: Tue Oct 15 2024 21:11:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-15T21:11:08.366Z
 cuid: cm2axu3pq000109kye4vz6q8l
 slug: day-04-navigating-aws-security-compliance-a-shared-responsibility-model
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729026616238/7fe49b97-d615-4f05-826e-89621bcd95d9.png
