@@ -2,7 +2,7 @@
 title: "Basic Linux List Commands 🐧💻"
 seoTitle: "Essential Linux List Commands Guide"
 seoDescription: "Learn essential Linux commands to list files and directories, including hidden files, with detailed descriptions and examples"
-datePublished: Fri Jul 05 2024 11:16:22 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-05T11:16:22.206Z
 cuid: cly8loc3i000609mhg9ckeg6e
 slug: basic-linux-list-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720255932644/410f79fb-eb2b-481a-b51f-17be65c1ebb4.webp
