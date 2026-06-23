@@ -2,7 +2,7 @@
 title: "Day 14: 📝Create a Linux & Git-GitHub Cheat Sheet 📋"
 seoTitle: "Linux & Git-GitHub Cheat Sheet Creation"
 seoDescription: "Comprehensive Linux and Git-GitHub cheat sheet covering command usage, descriptions, and examples for efficient learning and quick reference"
-datePublished: Mon Jul 29 2024 14:04:43 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-29T14:04:43.098Z
 cuid: clz7299zu000209jyeogv1vmn
 slug: day-14-create-a-linux-git-github-cheat-sheet
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722261840417/c7874559-d6df-44f2-b723-7cddc8d4ed89.png
