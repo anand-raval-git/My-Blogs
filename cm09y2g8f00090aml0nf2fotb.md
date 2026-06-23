@@ -2,7 +2,7 @@
 title: "Day 28 : 🚀 Setting Up Jenkins Agents: A Step-by-Step Guide 🖥️"
 seoTitle: "Setting Up Jenkins Agents: Step-by-Step Guide"
 seoDescription: "Step-by-step guide to setting up Jenkins Agents, enhancing your CI/CD pipeline for scalable, distributed job execution"
-datePublished: Sun Aug 25 2024 19:10:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-25T19:10:26.991Z
 cuid: cm09y2g8f00090aml0nf2fotb
 slug: day-28-setting-up-jenkins-agents-a-step-by-step-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724612890956/6f295bec-bc25-4c73-8b9d-991170f5b0f5.png
