@@ -1,6 +1,6 @@
 ---
 title: "Unleashing the Power of DevOps: Automation, Scaling, and Infrastructure Essentials"
-datePublished: Tue Jul 02 2024 12:41:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-02T12:41:45.600Z
 cuid: cly4eelc0000k09l63p76gdjp
 slug: devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719923980931/4f517e64-fb20-4bf2-b971-40f0e331ab2f.jpeg
