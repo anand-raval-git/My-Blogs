@@ -2,7 +2,7 @@
 title: "Day-22 [part-1]:  Mastering Jenkins: A Step-by-Step Guide to CI/CD Automation 🛠️"
 seoTitle: "Master Jenkins: Step-by-Step CI/CD Guide"
 seoDescription: "Master Jenkins CI/CD automation with this comprehensive step-by-step guide, including installation instructions and setup tips"
-datePublished: Fri Aug 16 2024 11:59:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-16T11:59:12.808Z
 cuid: clzwnp7l4000109kze3ps7mv7
 slug: day-22-part-1-mastering-jenkins-a-step-by-step-guide-to-cicd-automation
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723865573331/4703b116-18c5-462b-bede-abb0e78ea43e.png
