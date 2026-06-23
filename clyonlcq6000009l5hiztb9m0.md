@@ -2,7 +2,7 @@
 title: "Day 6 Task :- 🔐 Understanding and Managing File Permissions in Linux: A Comprehensive Guide 📁"
 seoTitle: "Linux File Permissions: Comprehensive Guide"
 seoDescription: "Learn Linux file permissions: ownership, groups, ACLs, Sticky Bit, SUID, and SGID. Complete tasks to manage permissions effectively"
-datePublished: Tue Jul 16 2024 16:54:21 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-16T16:54:21.102Z
 cuid: clyonlcq6000009l5hiztb9m0
 slug: day-6-task-understanding-and-managing-file-permissions-in-linux-a-comprehensive-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721148623192/ec7b82ef-13b9-41af-8368-a1abf0c216be.png
