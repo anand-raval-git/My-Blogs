@@ -2,7 +2,7 @@
 title: "What is path operations? And What is http Request methods"
 seoTitle: "Understanding Path Operations and HTTP Methods"
 seoDescription: "Learn about defining Path Operations in FastAPI, handling HTTP request methods, and structuring endpoints for optimal API development"
-datePublished: Sat May 17 2025 04:46:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-17T04:46:12.610Z
 cuid: cmarqvrsy000209lk0hsihm6z
 slug: what-is-path-operations-and-what-is-http-request-methods
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747457117548/634d1b1a-aad1-474a-bb97-d73683e41b3a.png
