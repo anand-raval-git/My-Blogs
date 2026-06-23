@@ -2,7 +2,7 @@
 title: "Day 42: IAM Programmatic access and AWS CLI 🚀 ☁"
 seoTitle: "IAM Programmatic Access and AWS CLI Guide"
 seoDescription: "Learn how to set up AWS IAM programmatic access and configure the AWS CLI. Step-by-step tasks for creating access keys and installing the CLI"
-datePublished: Wed Sep 25 2024 14:15:23 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-25T14:15:23.786Z
 cuid: cm1hy6f0q002108juewnp44jw
 slug: day-42-iam-programmatic-access-and-aws-cli
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727248028291/3992b460-00cf-4509-b1bc-8c3ea93e2527.png
