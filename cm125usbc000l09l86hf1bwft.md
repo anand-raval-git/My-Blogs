@@ -2,7 +2,7 @@
 title: "Day 37 Task: Kubernetes Important interview Questions."
 seoTitle: "Top Kubernetes Interview Questions for DevOps Engineers: Day 37 Tasks"
 seoDescription: "Key Kubernetes questions: deployment, scaling, management, Docker Swarm comparison, services, rolling updates, and self-healing concepts"
-datePublished: Sat Sep 14 2024 13:05:59 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-14T13:05:59.256Z
 cuid: cm125usbc000l09l86hf1bwft
 slug: day-37-task-kubernetes-important-interview-questions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726318929442/d43829ac-5da8-42a7-837d-e6c3b9065791.png
