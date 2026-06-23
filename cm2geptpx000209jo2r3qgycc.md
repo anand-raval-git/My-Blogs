@@ -2,7 +2,7 @@
 title: "DAY 07 : 📊 AWS Pricing Models Explained: Free Tier to Spot Instances"
 seoTitle: "AWS Pricing Models Guide: Free to Spot Instances"
 seoDescription: "AWS pricing models explained, from Free Tier to Spot Instances, to help optimize costs and maximize savings effectively"
-datePublished: Sat Oct 19 2024 17:02:33 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-19T17:02:33.141Z
 cuid: cm2geptpx000209jo2r3qgycc
 slug: day-07-aws-pricing-models-explained-free-tier-to-spot-instances
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729357307134/ce3034ec-ee24-49fa-8d88-462982365de6.png
