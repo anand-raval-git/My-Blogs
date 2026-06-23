@@ -2,7 +2,7 @@
 title: "Day 16 : Docker for DevOps Engineers 🐳"
 seoTitle: "Docker Essentials for DevOps Engineers"
 seoDescription: "Learn Docker commands to manage containers efficiently for DevOps tasks: run, inspect, port, stats, top, save, and load"
-datePublished: Tue Jul 30 2024 17:41:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-30T17:41:57.819Z
 cuid: clz8pgibf000408l6ghh58t0p
 slug: day-16-docker-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722361256443/c00e9942-1dc3-4345-ac40-e61c3f678b72.png
