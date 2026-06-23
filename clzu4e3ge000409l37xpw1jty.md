@@ -2,7 +2,7 @@
 title: "Day 20 : 🚀 Docker Cheat Sheet: Essential Commands for Images, Containers, and Docker Hub 🌟"
 seoTitle: "Docker Cheat Sheet: Key Commands"
 seoDescription: "Essential Docker commands for images, containers, and Docker Hub. Get your quick reference guide for managing and optimizing your Docker workflow"
-datePublished: Wed Aug 14 2024 17:23:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-08-14T17:23:09.182Z
 cuid: clzu4e3ge000409l37xpw1jty
 slug: day-20-docker-cheat-sheet-essential-commands-for-images-containers-and-docker-hub
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723656218555/41d95a53-f85b-41c2-9f09-ad97207f24ab.png
