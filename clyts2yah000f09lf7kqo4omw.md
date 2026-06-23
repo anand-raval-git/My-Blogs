@@ -2,7 +2,7 @@
 title: "Understanding Routers: 🛣️ Your Guide to Internet Traffic Management"
 seoTitle: "Router Basics: Manage Your Internet Traffic"
 seoDescription: "Guide to routers, routing, and network traffic management: NAT, firewalls, wireless connectivity, and more for home and business"
-datePublished: Sat Jul 20 2024 06:58:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-20T06:58:51.545Z
 cuid: clyts2yah000f09lf7kqo4omw
 slug: understanding-routers-your-guide-to-internet-traffic-management
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721458676311/879e6577-d8ea-43ba-a49f-b316e0f058fa.png
