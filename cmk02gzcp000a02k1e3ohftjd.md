@@ -2,7 +2,7 @@
 title: "AWS Task Day 03 :-  Create Subnet in aws"
 seoTitle: "Create AWS Subnet: Step-by-Step Guide"
 seoDescription: "Learn how to create a subnet named 'devops-subnet' in AWS under the default VPC step-by-step"
-datePublished: Sun Jan 04 2026 18:30:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-04T18:30:08.377Z
 cuid: cmk02gzcp000a02k1e3ohftjd
 slug: aws-task-day-03-create-subnet-in-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767510907429/90d8c82d-6baf-40af-b87f-bd7703934498.png
