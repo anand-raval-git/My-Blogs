@@ -2,7 +2,7 @@
 title: "AWS Task Day 02 :-  Create Security Group in aws"
 seoTitle: "Create AWS Security Group: Step-by-Step Guide"
 seoDescription: "Learn to create an AWS security group for HTTP and SSH access with our step-by-step guide. Ideal for DevOps cloud migrations"
-datePublished: Fri Jan 02 2026 08:22:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-02T08:22:41.667Z
 cuid: cmjwlw3k3000202l5hp25dolu
 slug: aws-task-day-02-create-security-group-in-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767342074278/fb8269fa-dfe3-4041-abe1-47b2a436285f.png
