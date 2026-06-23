@@ -2,7 +2,7 @@
 title: "Day 03 : Azure IaaS vs PaaS vs SaaS and Cloud Compliance"
 seoTitle: "Azure Services Compared: IaaS, PaaS, SaaS"
 seoDescription: "Explore the differences between IaaS, PaaS, SaaS, and cloud compliance essentials to enhance your understanding of cloud-based solutions"
-datePublished: Sun Mar 16 2025 18:31:31 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-16T18:31:31.473Z
 cuid: cm8bz2bgx000007ji3acf3w1p
 slug: day-03-azure-iaas-vs-paas-vs-saas-and-cloud-compliance
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742149834662/a8a21b25-7c66-41f7-b966-c30232e88811.png
