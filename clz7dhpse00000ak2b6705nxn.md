@@ -2,7 +2,7 @@
 title: "Day 15: 🐍 Basics of Python for DevOps Engineers 🚀"
 seoTitle: "Python Basics for DevOps Engineers"
 seoDescription: "Introduction to Python basics for DevOps engineers, including installation steps and overview of data types"
-datePublished: Mon Jul 29 2024 19:19:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-29T19:19:12.590Z
 cuid: clz7dhpse00000ak2b6705nxn
 slug: day-15-basics-of-python-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722280702776/45d91083-b2f2-4b66-94e4-e7ad5083e0f4.png
