@@ -2,7 +2,7 @@
 title: "DAY 24 : [Part 4] 🔍 Demystifying AWS: Key Questions and Answers"
 seoTitle: "AWS Demystified: Key Questions Answered"
 seoDescription: "Explore AWS services with questions and answers on scaling, data protection, containerization, databases, load balancing, and more"
-datePublished: Wed Nov 27 2024 17:20:15 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-27T17:20:15.985Z
 cuid: cm405ittd001109l5agu6fg8k
 slug: day-24-part-4-demystifying-aws-key-questions-and-answers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732727949555/cce6d9cc-a0b5-42ef-b2ad-58f8c7dd0902.png
