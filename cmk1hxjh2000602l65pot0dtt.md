@@ -2,7 +2,7 @@
 title: "AWS Task Day 04 :- Allocate Elastic IP in aws"
 seoTitle: "Allocate Elastic IP on AWS Guide"
 seoDescription: "Learn how the Nautilus DevOps team allocates an Elastic IP in AWS to streamline their cloud migration process"
-datePublished: Mon Jan 05 2026 18:30:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-05T18:30:41.366Z
 cuid: cmk1hxjh2000602l65pot0dtt
 slug: aws-task-day-04-allocate-elastic-ip-in-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767589604661/7f5f6c71-87c2-416c-9b4e-19561852c423.png
