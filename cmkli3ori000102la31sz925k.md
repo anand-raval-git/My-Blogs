@@ -2,7 +2,7 @@
 title: "AWS Task Day 19 :- Create Read-Only IAM Policy for EC2 Console Access in aws"
 seoTitle: "Create Read-Only IAM Policy for EC2 Access"
 seoDescription: "Create a read-only IAM policy for EC2 console access in AWS using this step-by-step guide"
-datePublished: Mon Jan 19 2026 18:30:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-19T18:30:51.678Z
 cuid: cmkli3ori000102la31sz925k
 slug: aws-task-day-19-create-read-only-iam-policy-for-ec2-console-access-in-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767508724856/70ed4eb3-c334-4b29-a767-b7ad68ba924a.png
