@@ -2,7 +2,7 @@
 title: "What is virtual environment and Introduction to FastAPI"
 seoTitle: "Virtual Environments & FastAPI Intro Guide"
 seoDescription: "Develop APIs with FastAPI, set up virtual environments, and deploy with CI/CD pipelines. Ideal for beginner Python developers"
-datePublished: Mon May 12 2025 19:01:07 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-12T19:01:07.694Z
 cuid: cmalg7y0e000509l83erd8tjp
 slug: what-is-virtual-environment-and-introduction-to-fastapi
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747076314626/9dd9061a-627e-4c61-8786-887b95159c16.png
