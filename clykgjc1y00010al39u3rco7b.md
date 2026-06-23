@@ -2,7 +2,7 @@
 title: "Day 5 Task :- Mastering Shell Scripts for Directory Creation and Automated Backups 🗂️💾"
 seoTitle: "Mastering Shell Scripts for Directory Creation and Automated Backup"
 seoDescription: "Learn to master shell scripting for directory creation, automated backups, and user management with cron and crontab in just one day"
-datePublished: Sat Jul 13 2024 18:25:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-13T18:25:44.902Z
 cuid: clykgjc1y00010al39u3rco7b
 slug: day-5-task-mastering-shell-scripts-for-directory-creation-and-automated-backups
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720894932447/334acaa1-1b65-4002-8323-f6e7ac711dc1.png
