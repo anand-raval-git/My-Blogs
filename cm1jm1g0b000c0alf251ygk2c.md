@@ -2,7 +2,7 @@
 title: "Day 43: S3 Programmatic access with AWS-CLI 💻 📁"
 seoTitle: "AWS S3 Programmatic Access with AWS-CLI"
 seoDescription: "Learn to programmatically access Amazon S3 using AWS CLI in this"
-datePublished: Thu Sep 26 2024 18:11:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-26T18:11:08.747Z
 cuid: cm1jm1g0b000c0alf251ygk2c
 slug: day-43-s3-programmatic-access-with-aws-cli
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727374218847/a968a6ba-2007-4235-9e82-40e7cc639c20.png
