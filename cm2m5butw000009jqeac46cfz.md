@@ -2,7 +2,7 @@
 title: "DAY 10 : 🌐 AWS Infrastructure Demystified: From Regions to Edge Locations"
 seoTitle: "AWS: Regions to Edge Locations Explained"
 seoDescription: "Explore AWS infrastructure: deployment methods, global Regions, Availability Zones, Edge Locations, and Local Zones"
-datePublished: Wed Oct 23 2024 17:26:21 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-10-23T17:26:21.908Z
 cuid: cm2m5butw000009jqeac46cfz
 slug: day-10-aws-infrastructure-demystified-from-regions-to-edge-locations
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729618507027/ef6eb855-eaa7-447f-b952-22cd0f762c5b.png
