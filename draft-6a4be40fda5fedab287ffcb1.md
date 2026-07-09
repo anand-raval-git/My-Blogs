@@ -7,28 +7,26 @@ The Nautilus DevOps team needs a new private RDS instance for their application.
 
 1.  **Task Details:**
     
-
-1.  Create a private RDS instance named `datacenter-rds` using a `sandbox` template.
+2.  Create a private RDS instance named `datacenter-rds` using a `sandbox` template.
     
-2.  The engine type must be `MySQL v8.4.5`, and it must be a `db.t3.micro` type instance.
+3.  The engine type must be `MySQL v8.4.5`, and it must be a `db.t3.micro` type instance.
     
-3.  The master username must be `datacenter_admin` with an appropriate password.
+4.  The master username must be `datacenter_admin` with an appropriate password.
     
-4.  The RDS storage type must be `gp2`, and the storage size must be `5GiB`.
+5.  The RDS storage type must be `gp2`, and the storage size must be `5GiB`.
     
-5.  Create a database named `datacenter_db`.
+6.  Create a database named `datacenter_db`.
     
-6.  Keep the rest of the configurations as `default`. Ensure the instance is in `available` state.
+7.  Keep the rest of the configurations as `default`. Ensure the instance is in `available` state.
     
-7.  Adjust the security groups so that the `datacenter-ec2` instance can connect to the RDS on `port 3306` and also open port `80` for the instance.
+8.  Adjust the security groups so that the `datacenter-ec2` instance can connect to the RDS on `port 3306` and also open port `80` for the instance.
     
-
-2.  An EC2 instance named `datacenter-ec2` exists. Connect to this instance from the AWS console. Create an SSH key (`/root/.ssh/id_rsa`) on the `aws-client` host if it doesn't already exist. Add the public key to the authorized keys of the `root` user on the EC2 instance for password-less SSH access.
+9.  An EC2 instance named `datacenter-ec2` exists. Connect to this instance from the AWS console. Create an SSH key (`/root/.ssh/id_rsa`) on the `aws-client` host if it doesn't already exist. Add the public key to the authorized keys of the `root` user on the EC2 instance for password-less SSH access.
     
-3.  There is a file named `index.php` under the `/root` directory on the `aws-client` host. Copy this file to the `datacenter-ec2` instance under the `/var/www/html/` directory. Make the appropriate changes in the file to connect to the RDS.
-    
-4.  You should see a `Connected successfully` message in the browser once you access the instance using the public IP.
-    
+10.  There is a file named `index.php` under the `/root` directory on the `aws-client` host. Copy this file to the `datacenter-ec2` instance under the `/var/www/html/` directory. Make the appropriate changes in the file to connect to the RDS.
+     
+11.  You should see a `Connected successfully` message in the browser once you access the instance using the public IP.
+     
 
 ![](https://cdn.hashnode.com/uploads/covers/6683e9700c2137ac86599d6e/de46e407-636a-41b5-9a8e-71961c51c730.png align="center")
 
